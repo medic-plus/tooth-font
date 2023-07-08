@@ -1,0 +1,33 @@
+{
+  "name": "@medicplus/tooth-font",
+  "version": "1.0.0",
+  "description": "Tooth font for odontogram",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medic-plus/tooth-font.git"
+  },
+  "keywords": [
+    "tooth",
+    "font",
+    "odontogram"
+  ],
+  "author": "Ivan Vasquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medic-plus/tooth-font/issues"
+  },
+  "homepage": "https://github.com/medic-plus/tooth-font#readme",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "css-minimizer-webpack-plugin": "^5.0.1",
+    "file-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^2.7.6",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
