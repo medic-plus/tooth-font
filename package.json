@@ -1,6 +1,6 @@
 {
   "name": "@medicplus/tooth-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tooth font for odontogram",
   "scripts": {
     "dev": "webpack --mode development",
@@ -27,7 +27,7 @@
     "file-loader": "^6.2.0",
     "mini-css-extract-plugin": "^2.7.6",
     "style-loader": "^3.3.3",
-    "webpack": "^5.88.1",
+    "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   }
 }
